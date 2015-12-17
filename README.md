@@ -40,6 +40,16 @@ The function follows the following rules:
   3. otherwise, the version is incremented by one, and a -SNAPSHOT
      suffix is appended
 
+## Why?
+
+There are some classes of applications where semantic versioning
+doesn't make sense, and a single incrementing version will
+suffice (a web app is a good example).
+
+## Thanks
+
+Thanks to [Nelson Morris](https://github.com/xeqi/) for the inspiration.
+
 ## License
 
 Copyright © 2015 Tobias Crawley
