@@ -1,4 +1,4 @@
-(defproject supersport "1"
+(defproject supersport "2-SNAPSHOT"
   :description "An almost worthless utility library that aids with releasing projects that have single-segment version numbers."
   :url "https://github.com/tobias/supersport"
   :license {:name "Eclipse Public License"
